@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(7, 24, 0);
+    color: rgb(111, 0, 255);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    border: 2px solid black;
+    margin-left: 2.5vw;
+    height: 80vh;
+    width: 95vw;
+    position: absolute;
+}
+#prompt {
+    border: 2px solid black;
+    margin-left: 2.5vw;
+    height: 6vh;
+    width: 95vw;
+    bottom: 0;
+    position: absolute;
+}
